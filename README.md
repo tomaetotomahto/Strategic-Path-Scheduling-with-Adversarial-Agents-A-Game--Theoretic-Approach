@@ -26,7 +26,7 @@ For full paper, see [Game Theory Project PDF](Game_Theory_Project.pdf).
 
 ```bash
 # 1. Clone
-git clone https://github.com/you/Strategic-Path-Scheduling.git
+git clone https://github.com/tomaetotomahto/Strategic-Path-Scheduling-with-Adversarial-Agents-A-Game--Theoretic-Approach.git
 cd Strategic-Path-Scheduling
 
 # 2. Install
