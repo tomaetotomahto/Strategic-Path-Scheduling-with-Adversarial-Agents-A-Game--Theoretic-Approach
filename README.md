@@ -2,7 +2,7 @@ Strategic Path Scheduling – Simulation Code
 
 Quick Start
 
-```bash```
+```bash
 # install deps
 pip install networkx
 
