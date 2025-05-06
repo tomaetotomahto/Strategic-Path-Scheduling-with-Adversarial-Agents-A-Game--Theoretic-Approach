@@ -1,10 +1,11 @@
-Strategic Path Scheduling – Simulation Code  
-
-Quick Start
+## Quick Start
 
 ```bash
-# install deps
+# 1) Install dependencies
 pip install networkx
 
-# run the demo script (grid, small‑world, scale‑free)
+# 2) Run the demo simulation
 python simulation.py
+
+# 3) Run the unit tests
+python -m unittest discover tests
